@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+div#coda-nav-1 ul
+{
+width:65% !important;
+margin-bottom:0px !important;
+}
+div.panel-wrapper form table tbody tr td
+{
+float:left;
+padding:5px 10px !important;
+}
+div.panel-wrapper form table tbody tr td input
+{
+float:left;
+margin:0px;
+
+}
+.logout
+{
+color: #FF0000;
+    float: right;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+.welcome_text { float:left;}
+.logout a
+{
+color: #FF0000;
+    float: right;
+    font-weight: bold;
+    text-decoration: none !important;
+}
+.custom_link {
+    float: left;
+    padding-bottom: 15px;
+    width: 130px;
+}
+.custom_link a{float:left; font-size:12px;}
+#disable_facebook {float: left; padding-top: 10px;}
