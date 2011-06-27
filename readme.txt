@@ -1,4 +1,4 @@
-=== Facebook With Login ===
+=== Login With Facebook ===
 Contributors: Themecrest
 Tags: myfacebook, login with facebook, facebook login, , facebook, facebook wall, linkedin, twitter, social, themecrest, pretty link, prettylink, pretty-link,  admin, page, pages, post, posts, posting, plugin, sidebar, comment, comments, commenting, images,  user, profile, login, logout, signup, signin, register, lost password, google, links, link
 Requires at least: 2.8
